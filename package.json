@@ -5,8 +5,14 @@
   "repository": "https://github.com/cloverink/dtw.git",
   "author": "cloverink <cloverink@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+
+  },
   "devDependencies": {
     "eslint": "^4.19.1",
-    "eslint-watch": "^3.1.4"
+    "babel-eslint": "^8.2.3"
   }
 }
