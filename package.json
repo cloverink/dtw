@@ -6,6 +6,7 @@
   "author": "cloverink <cloverink@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "start": "node .",
     "lint": "eslint .",
     "test": "mocha \"./{,!(node_modules)/**/}*.spec.js\""
   },
